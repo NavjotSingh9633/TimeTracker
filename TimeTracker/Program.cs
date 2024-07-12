@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Globalization;
-/**
 using TimeTracker.Form;
-*/
 using TimeTracker.Properties;
 
 namespace TimeTracker
